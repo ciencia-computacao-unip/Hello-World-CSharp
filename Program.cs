@@ -11,6 +11,7 @@ namespace Hello_World_CSharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }
